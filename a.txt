@@ -1,2 +1,3 @@
 print("Hello a");
+test from A
 print("new for B");
